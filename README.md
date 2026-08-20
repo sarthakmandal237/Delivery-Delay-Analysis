@@ -55,27 +55,23 @@ This project answers all four questions — moving from raw data → root-cause 
 ```
 Delivery-Delay-Analysis/
 │
-├── Dataset/
+├── data/
 │   └── raw_orders_dataset.csv
 │
-├── SQL/
+├── sql/
 │   └── fulfillment_queries.sql
 │
-├── Python/
+├── python/
 │   ├── eda_model_script.py
 │   └── orders_with_risk_score.csv
 │
-├── Excel/
+├── excel/
 │   └── hub_cost_tracker.xlsx
 │
-├── PowerBI/
+├── power BI/
 │   └── delivery delay analysis.pbix
 │
-├── Images/
-│   ├── dashboard_page1.png
-│   ├── dashboard_page2.png
-│   └── dashboard_page3.png
-│
+├── Delivery delay analysis.pdf
 └── README.md
 ```
 
